@@ -25,6 +25,3 @@ The results of our [KDD](https://dl.acm.org/doi/10.1145/3394486.3403211) paper o
 ## ACK
 The code is developed referring [DAM](https://github.com/baidu/Dialogue/tree/master/DAM).
 
-; Ubuntu: MRR 0.8072 R10@1 0.7545 R10@2 0.8765 R10@5 0.9700 R2@1 0.9362
-; Douban: MRR 0.8339 R10@1 0.7884 R10@2 0.9023 R10@5 0.9825 R2@1 0.9542
-; Ecommerce: MRR 0.8222 R10@1 0.7732 R10@2 0.9076 R10@5 0.9868 R2@1 0.9538
